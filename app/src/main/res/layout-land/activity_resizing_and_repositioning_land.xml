@@ -52,7 +52,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:text="Middle" />
+        android:text="Top Center" />
 
     <Button
         android:layout_width="180px"
@@ -60,6 +60,6 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:text="Middle" />
+        android:text="Bottom Center" />
 
 </RelativeLayout>
