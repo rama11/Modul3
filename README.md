@@ -1,4 +1,8 @@
 # Modul3
+[![Build Status](https://img.shields.io/badge/build-process-green.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
+[![Code Type](https://img.shields.io/badge/type-school--task-lightgrey.svg?style=flat-square)](https://codeclimate.com/github/badges/badgerbadgerbadger)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
 > *Pemerogaman Perangkat Bergerak - Hendro Soemarno, S.T.*
 
 Modul3 ini adalah sebuah hasil tugas android untuk memenuhi dari penugasan oleh Pak Hendro. Bagi anda yang ingin meng CLONE ataupun menDOWNLOAD nya saya persilakan, namun jangan lupa untuk memahaminya dan menyertakan nama Author untuk mengehormatinya (dalam kondisi ini adalah saya). Dan semoga bermanfaat.
