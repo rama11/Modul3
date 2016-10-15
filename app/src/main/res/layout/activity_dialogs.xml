@@ -11,4 +11,10 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.nbs.app.modul3.dialogs">
 
+    <Button
+        android:id="@+id/btnDialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Exit Button" />
+
 </RelativeLayout>
