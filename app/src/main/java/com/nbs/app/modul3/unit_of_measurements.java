@@ -11,7 +11,5 @@ public class unit_of_measurements extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_unit_of_measurements);
         getSupportActionBar().setTitle("Unit of Measurements");
-
-
     }
 }
