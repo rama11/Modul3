@@ -1,36 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/activity_linear_layout"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@android:color/darker_gray"
-    android:orientation="vertical"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.nbs.app.modul3.linear_layout">
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/darker_gray">
 
     <Button
-        android:layout_width="160dp"
+        android:layout_width="188dp"
         android:layout_height="wrap_content"
-        android:layout_gravity="left"
-        android:layout_weight="1"
+        android:layout_x="126px"
+        android:layout_y="361px"
         android:text="Button 1" />
 
     <Button
         android:layout_width="160dp"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_weight="2"
+        android:layout_x="12px"
+        android:layout_y="361px"
         android:text="Button 2" />
-
-    <Button
-        android:layout_width="160dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="right"
-        android:layout_weight="3"
-        android:text="Button 3" />
-
-</LinearLayout>
+</AbsoluteLayout>
